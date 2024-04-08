@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="hint">Введите имя и фамилию</string>
+    <string name="button">Далее</string>
+    <string name="button2">Далее</string>
+    <string name="text">Дата и время</string>
+    <string name="text1">Имя и фамилия</string>
+    <string name="hint1">Введите день</string>
+    <string name="hint2">Введите время</string>
+    <string name="hint3">Введите коментарий</string>
+    <string name="ok">Ok</string>
+</resources>
